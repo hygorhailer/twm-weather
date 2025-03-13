@@ -4,7 +4,7 @@
 ## Overview
 TWM Weather is a Shell Script application created to be a module of the Polybar status bar, providing real-time weather information. It uses the Rofi Menu for a user-friendly interface and the OpenWeather API to obtain accurate weather data. Although the project was developed with a focus on Polybar, the application can be used on other status bars.
 
-![](https://shorturl.at/frSW4)
+![Description](example/twm-weather.gif)
 
 **Note:**
 At the moment, only Brazilian cities are available. 
